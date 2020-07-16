@@ -2,6 +2,7 @@
 Some programs i experimented around with while learning python and machine learning. 
 This includes many datasets that are publically available and some of the code has been inspired and influenced by teachers on youtube, udemy and kaggle.com. 
 Links for machine learning, python and other resources i use : 
+
 https://www.kaggle.com/zohebabai/exploratory-project-on-advertising-dataset
 
 https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/
@@ -15,3 +16,5 @@ https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootca
 https://www.scipy.org/
 
 https://scikit-learn.org/stable/datasets/index.html
+
+https://opentdb.com/api_config.php
